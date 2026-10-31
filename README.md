@@ -14,6 +14,14 @@ AeroCal is an ML workbench for exploring calibration of low-cost PM2.5 sensors. 
 
 ![AeroCal calibration charts and evaluation](assets/aerocal-results.png)
 
+### Dark theme results
+
+![AeroCal dark theme metrics and calibration plots](assets/aerocal-results-dark.png)
+
+### Dark theme detail view
+
+![AeroCal held-out rows and method notes](assets/aerocal-details-dark.png)
+
 ## Run locally
 
 Python 3.10 or newer is recommended.
