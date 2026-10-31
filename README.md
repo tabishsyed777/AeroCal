@@ -4,6 +4,16 @@
 
 AeroCal is an ML workbench for exploring calibration of low-cost PM2.5 sensors. It compares raw sensor readings with a model trained against reference-monitor collocations, then evaluates that correction on a held-out station.
 
+## Screenshots
+
+### Dashboard overview
+
+![AeroCal dashboard overview](assets/aerocal-overview.png)
+
+### Held-out calibration results
+
+![AeroCal calibration charts and evaluation](assets/aerocal-results.png)
+
 ## Run locally
 
 Python 3.10 or newer is recommended.
